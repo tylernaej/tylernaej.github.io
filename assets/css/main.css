@@ -1236,6 +1236,9 @@ input, select, textarea {
 		}
 
 /* Header */
+	.buffer{
+		padding: 20px;
+	}
 
 	#header {
 		display: -moz-flex;
@@ -1257,7 +1260,7 @@ input, select, textarea {
 		background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
 		background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
 		background-image: -ms-radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
-		background-image: radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
+		background-image: radial-gradient(rgba(0, 0, 0, 0.35) 35%, rgba(0, 0, 0, 0) 65%);
 		max-width: 100%;
 		text-align: center;
 	}
