@@ -1668,3 +1668,7 @@ input, select, textarea {
 			border: solid slategray 1px;
 			border-radius: 10px;
 		}
+
+		.badge{
+			margin-right: 5px;
+		}
