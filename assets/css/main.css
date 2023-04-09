@@ -1672,3 +1672,7 @@ input, select, textarea {
 		.badge{
 			margin-right: 5px;
 		}
+
+		.noDecoration, a:link, a:visited{
+			text-decoration: none !important;
+		}
